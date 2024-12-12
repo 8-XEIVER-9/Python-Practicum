@@ -1,1 +1,0 @@
-{ch: text.lower().count(ch) for ch in sorted(text.replace(" ", "").lower()) if ch.isalpha()}

@@ -1,1 +1,0 @@
-''.join(line[0].upper() for line in string.split())

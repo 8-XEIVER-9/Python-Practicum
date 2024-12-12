@@ -1,1 +1,0 @@
-{num for num in numbers if int(num**0.5)**2 == num} 

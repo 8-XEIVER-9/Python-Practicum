@@ -1,1 +1,0 @@
-''.join(ch * n for ch, n in rle)
