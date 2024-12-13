@@ -1,4 +1,4 @@
-def month(num, lan):
+def month(num, lan="ru"):
     months_ru = {
         1: "Январь",
         2: "Февраль",
